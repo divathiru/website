@@ -188,7 +188,7 @@ Publish the website in the given URL.
                     </p>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow-lg">
-                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https:/sksksk/images.unsplash.com/photo-1583623025817-d180a2221d0aq=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" />
+                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https:/sjjjjhhjksksk/images.unsplash.com/photo-1583623025817-d180a2221d0aq=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" />
                     <h3 class="text-xl font-semibold mt-4">
 
                         Sushi plate with chopsticks and soya souce.
@@ -211,7 +211,7 @@ Publish the website in the given URL.
             </h2>
             <div class="mt-10 flex flex-col md:flex-row items-center">
                 <div class="md:w-1/2">
-                    <img alt="Image of the restaurant interior" class="w-full h-auto rounded-lg shadow-lg" height="300" src="https://storage.googleapis.com/a1aa/image/N1sTxIDwMrKlChCUFTMlUUY336xae9RBRyF0Bikym2aNmq2JA.jpg" width="500" />
+                    <img alt="Image of the restaurant interior" class="w-full h-auto rounded-lg shadow-lg" height="300" src="https://storage.googleapis.com/a1aa/image/N1sTxIDwMrKlChChhjjhjUFTMlUUY336xae9RBRyF0Bikym2aNmq2JA.jpg" width="500" />
                 </div>
                 <div class="md:w-1/2 md:ml-10 mt-6 md:mt-0">
                     <p class="text-gray-600 text-lg">
@@ -317,7 +317,7 @@ Publish the website in the given URL.
 </body>
 
 </html>
-"""
+
 # OUTPUT:
 
 ![Screenshot 2024-12-06 192300](https://github.com/user-attachments/assets/1cfd0825-e65d-41e6-a378-30c8bd9b669b)
