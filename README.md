@@ -27,7 +27,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM:
-
+"""
 <html>
 
 <head>
@@ -49,7 +49,7 @@ Publish the website in the given URL.
                 <div class="flex space-x-7">
                     <div>
                         <a class="flex items-center py-4 px-2" href="#">
-                            <img alt="Restaurant logo" class="h-8 w-8 mr-2" height="50" src="https://storage.googleapis.com/a1aa/image/eqGJFmD3iB37MSbhW1k6hHAxBFLDznVtO24ovoetosPYMVtTA.jpg" width="50" />
+                            <img alt="Restaurant logo" class="h-8 w-8 mr-2" height="50" src="https://storage.googledsdsadsaapis.com/a1aa/image/eqGJFmD3iB37MSbhW1k6hHAxBFLDznVtO24ovoetosPYMVtTA.jpg" width="50" />
                             <span class="font-semibold text-gray-500 text-lg">
                                 Master's Chef
                             </span>
@@ -105,7 +105,7 @@ Publish the website in the given URL.
         </ul>
     </div>
     <!-- Hero Section -->
-    <div class="bg-cover bg-center h-screen" style="background-image: url('https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');">
+    <div class="bg-cover bg-center h-screen" style="background-image: url('https://images.unsplash.com/photo-151493365dsadsadsa1103-005eec06c04b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');">
         <div class="flex items-center justify-center h-full bg-gray-900 bg-opacity-50">
             <div class="text-center">
                 <h1 class="text-white text-5xl font-bold">
@@ -128,7 +128,7 @@ Publish the website in the given URL.
             </h2>
             <div class="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
                 <div class="bg-gray-100 p-6 rounded-lg shadow-lg">
-                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://images.unsplash.com/photo-1464093515883-ec948246accb?q=80&w=2059&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" />
+                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://images.unspdsadsadsalash.com/photo-1464093515883-ec948246accb?q=80&w=2059&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" />
                     <h3 class="text-xl font-semibold mt-4">
                         Lobster Ravioli and Scampi cream
                     </h3>
@@ -140,7 +140,7 @@ Publish the website in the given URL.
                     </p>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow-lg">
-                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://images.unsplash.com/photo-1498531872221-ce6d6216be71?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" />
+                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://imagedsadsasas.unsplash.com/photo-1498531872221-ce6d6216be71?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" />
                     <h3 class="text-xl font-semibold mt-4">
                         Gourmet prawn
                     </h3>
@@ -152,7 +152,7 @@ Publish the website in the given URL.
                     </p>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow-lg">
-                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://cdn.pixabay.com/photo/2015/05/02/01/02/chicken-bokeumtang-749365_960_720.jpg" width="300" />
+                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://cdn.pixabssadsadsaay.com/photo/2015/05/02/01/02/chicken-bokeumtang-749365_960_720.jpg" width="300" />
                     <h3 class="text-xl font-semibold mt-4">
                         Dak Bokkeumtang
                     </h3>
@@ -164,7 +164,7 @@ Publish the website in the given URL.
                     </p>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow-lg">
-                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://plus.unsplash.com/premium_photo-1668095398227-c943ddb69d89?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" />
+                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://plus.unsplash.com/premium_photo-1668095398227-c943ddb69d89?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8sadsaafGVufDB8fHx8fA%3D%3D" width="300" />
                     <h3 class="text-xl font-semibold mt-4">
                         Bruschetta with Smoked salmon
                     </h3>
@@ -176,7 +176,7 @@ Publish the website in the given URL.
                     </p>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow-lg">
-                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://images.unsplash.com/photo-1516865131505-4dabf2efc692?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" />
+                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://images.unsplash.com/photo-1516865131505-4dabf2efc692?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHxaasas8fGVufDB8fHx8fA%3D%3D" width="300" />
                     <h3 class="text-xl font-semibold mt-4">
                         Black Squid Ink Pasta
                     </h3>
@@ -188,7 +188,7 @@ Publish the website in the given URL.
                     </p>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow-lg">
-                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://images.unsplash.com/photo-1583623025817-d180a2221d0aq=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" />
+                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https:/sksksk/images.unsplash.com/photo-1583623025817-d180a2221d0aq=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" />
                     <h3 class="text-xl font-semibold mt-4">
 
                         Sushi plate with chopsticks and soya souce.
@@ -317,6 +317,7 @@ Publish the website in the given URL.
 </body>
 
 </html>
+"""
 # OUTPUT:
 
 ![Screenshot 2024-12-06 192300](https://github.com/user-attachments/assets/1cfd0825-e65d-41e6-a378-30c8bd9b669b)
