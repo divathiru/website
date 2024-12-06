@@ -164,7 +164,7 @@ Publish the website in the given URL.
                     </p>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow-lg">
-                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://plus.unsplash.com/premium_photo-1668095398227-c943ddb69d89?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8sadsaafGVufDB8fHx8fA%3D%3D" width="300" />
+                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://plus.unsplash.com/premium_photo-1668095398227-c943ddb69d89?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDffsfsgffB8MHxwaG90by1wYWdlfHx8sadsaafGVufDB8fHx8fA%3D%3D" width="300" />
                     <h3 class="text-xl font-semibold mt-4">
                         Bruschetta with Smoked salmon
                     </h3>
@@ -176,7 +176,7 @@ Publish the website in the given URL.
                     </p>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow-lg">
-                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://images.unsplash.com/photo-1516865131505-4dabf2efc692?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHxaasas8fGVufDB8fHx8fA%3D%3D" width="300" />
+                    <img alt="Image of a delicious dish" class="w-full h-40 object-cover rounded-t-lg" height="200" src="https://images.unsplash.com/photo-1516865131505-4dabf2efc692?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDdskjkjfdlljfdsklkjfdsB8MHxwaG90by1wYWdlfHxaasas8fGVufDB8fHx8fA%3D%3D" width="300" />
                     <h3 class="text-xl font-semibold mt-4">
                         Black Squid Ink Pasta
                     </h3>
